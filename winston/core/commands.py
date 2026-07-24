@@ -46,5 +46,6 @@ Available Skills
 • hello
 • time
 • date
+• weather
 • exit
 """

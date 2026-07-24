@@ -39,6 +39,8 @@ class Winston:
         print()
         while True:
             command = self.get_command()
+
+            command = command.lower().strip()
             
 
             if command == "exit":
